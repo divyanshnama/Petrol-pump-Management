@@ -2,9 +2,9 @@
 
 ### FrontEnd
 ### Backend
-## Project File Structure 
-## How TO RUN
-## Screenshots
+### Project File Structure 
+### How TO RUN
+### Screenshots
 
 ### FrontEnd
 
