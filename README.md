@@ -3,7 +3,7 @@
 ### FrontEnd
 ### Backend
 ### Project File Structure 
-### How TO RUN
+### How To Run
 ### Screenshots
 
 ### FrontEnd
