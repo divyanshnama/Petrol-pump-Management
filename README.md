@@ -1,6 +1,10 @@
 # PetrolPump-Management-System [DBMS]  
 
-## Impletation Environment
+### FrontEnd
+### Backend
+## Project File Structure 
+## How TO RUN
+## Screenshots
 
 ### FrontEnd
 
@@ -31,5 +35,9 @@
 
 ## How TO RUN 
 - First create databases using Create_database.py
+
+## Screenshots
 - Install all the librarys
 - run app.py file using command: "Python -m streamlit run app.py"
+
+
