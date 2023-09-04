@@ -35,9 +35,17 @@
 
 ## How TO RUN 
 - First create databases using Create_database.py
-
-## Screenshots
 - Install all the librarys
 - run app.py file using command: "Python -m streamlit run app.py"
 
+
+## Screenshots
+<img width="881" alt="Screenshot 2023-09-04 111735" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/3f1b2cb9-0308-4c8f-9d61-34ab1a18b031">
+<img width="853" alt="Screenshot 2023-09-04 111817" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/8b700ef7-52b1-45c6-990c-d516bf21e9f7">
+<img width="860" alt="Screenshot 2023-09-04 111833" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/8d9020e0-3bf0-4be6-973a-e2d1037ea451">
+<img width="860" alt="Screenshot 2023-09-04 111347" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/ee82b248-44ab-41fe-abca-baa7467a9350">
+<img width="851" alt="Screenshot 2023-09-04 111500" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/f9a4643e-4c99-4219-ac1b-ec4d99cd60e6">
+<img width="897" alt="Screenshot 2023-09-04 111524" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/c1f2b8eb-2a84-4707-8445-81807792fa17">
+<img width="838" alt="Screenshot 2023-09-04 111608" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/f16ee450-389d-4669-92d5-5a6ce52496db">
+<img width="848" alt="Screenshot 2023-09-04 111712" src="https://github.com/divyanshnama/Petrol-pump-Management/assets/104021285/8b8e15d3-60aa-43a0-8fa8-776152a8f679">
 
